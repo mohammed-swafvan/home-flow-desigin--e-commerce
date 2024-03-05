@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "product_name": "Running Shoes",
+        "image": "assets/images/deal-of-the-day-1.jpeg",
+        "offer": "UpTo 40%"
+    },
+    {
+        "id": 2,
+        "product_name": "Sneakers",
+        "image": "assets/images/deal-of-the-day-2.jpeg",
+        "offer": "40-60%"
+    },
+    {
+        "id": 3,
+        "product_name": "Wrist Watches",
+        "image": "assets/images/deal-of-the-day-3.jpeg",
+        "offer": "UpTo 40%"
+    },
+    {
+        "id": 4,
+        "product_name": "Bluetooth Speakers",
+        "image": "assets/images/deal-of-the-day-4.jpeg",
+        "offer": "40-60%"
+    }
+]

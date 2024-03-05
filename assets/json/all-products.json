@@ -1,0 +1,538 @@
+[
+    {
+        "id": 7,
+        "images": [
+            "assets/images/third_sneaker_0.webp",
+            "assets/images/third_sneaker_2.webp",
+            "assets/images/third_sneaker_6.webp"
+        ],
+        "product_name": "ClassicFit Unisex Canvas Sneakers",
+        "product_brand": "Nike",
+        "product_description": "Step out in style with the ClassicFit Unisex Canvas Sneakers. These versatile sneakers feature a timeless design and lightweight construction, perfect for everyday wear.",
+        "product_category": "Men's Shoes",
+        "product_type": "hot selling footwear",
+        "product_badge": true,
+        "price": "29.99",
+        "old_price": "39.99",
+        "offer": "25",
+        "specifications": {
+            "Material": "Canvas upper",
+            "Closure": "Slip-On",
+            "Sole Material": "Rubber",
+            "Footwear Type": "Casual Sneakers"
+        },
+        "color": "Black-Red",
+        "only_left": [
+            "assets/images/third_sneaker_7.webp",
+            "assets/images/third_sneaker_8.webp",
+            "assets/images/third_sneaker_9.webp"
+        ],
+        "sizes": [
+            {
+                "size": "7",
+                "out_of_stock": false
+            },
+            {
+                "size": "8",
+                "out_of_stock": false
+            },
+            {
+                "size": "9",
+                "out_of_stock": false
+            }
+        ],
+        "rating": "4.6",
+        "overall_rating": "700",
+        "review": [
+            {
+                "review_send_by": "James",
+                "review_date": "15th Jan 2024",
+                "review_heading": "First review",
+                "review_description": "review Description",
+                "review_rating": 3,
+                "review_images": [
+                    "assets/images/third_sneaker_1.webp",
+                    "assets/images/third_sneaker_3.webp",
+                    "assets/images/third_sneaker_5.webp"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "images": [
+            "assets/images/forth_sneaker_6.webp",
+            "assets/images/forth_sneaker_0.webp",
+            "assets/images/forth_sneaker_1.webp"
+        ],
+        "product_name": "FlexStride Men's Dress Shoes",
+        "product_brand": "Beta",
+        "product_category": "Men's Shoes",
+        "product_type": "hot selling footwear",
+        "product_badge": false,
+        "product_description": "Elevate your formal attire with the FlexStride Men's Dress Shoes. Crafted with premium leather and featuring a cushioned footbed, these shoes offer both style and comfort.",
+        "price": "59.99",
+        "old_price": "79.99",
+        "offer": "25",
+        "specifications": {
+            "Material": "Genuine leather upper",
+            "Closure": "Lace-Up",
+            "Sole Material": "Synthetic",
+            "Footwear Type": "Dress Shoes"
+        },
+        "color": "White",
+        "only_left": [
+            "assets/images/forth_sneaker_3.webp",
+            "assets/images/forth_sneaker_5.webp",
+            "assets/images/forth_sneaker_7.webp"
+        ],
+        "sizes": [
+            {
+                "size": "6",
+                "out_of_stock": false
+            },
+            {
+                "size": "7",
+                "out_of_stock": false
+            },
+            {
+                "size": "8",
+                "out_of_stock": false
+            },
+            {
+                "size": "9",
+                "out_of_stock": false
+            },
+            {
+                "size": "10",
+                "out_of_stock": false
+            },
+            {
+                "size": "11",
+                "out_of_stock": false
+            }
+        ],
+        "rating": "4.7",
+        "overall_rating": "1000",
+        "review": [
+            {
+                "review_send_by": "David John",
+                "review_date": "1st Jan 2024",
+                "review_heading": "First review",
+                "review_description": "review Description",
+                "review_rating": 5,
+                "review_images": [
+                    "assets/images/forth_sneaker_8.webp",
+                    "assets/images/forth_sneaker_1.webp",
+                    "assets/images/forth_sneaker_2.webp"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "images": [
+            "assets/images/first_sneaker.jpg",
+            "assets/images/first_sneaker_1.jpg",
+            "assets/images/first_sneaker_2.jpg"
+        ],
+        "product_name": "Walking breathable fashion sneakers for mens",
+        "product_brand": "Liberty",
+        "product_description": "Premium Trendy Sneakers For Men. Upper Material is mixed of Mesh and PU. You can wear it all day as the insocks are comfortable and provides good cushion. Collar cushion which gives proper fit to the shoe. These sneakers are cool and must-have pairs in your wardrobe.",
+        "product_category": "Men's Shoes",
+        "product_type": "hot selling footwear",
+        "product_badge": true,
+        "price": "12",
+        "old_price": "30.14",
+        "offer": "60",
+        "specifications": {
+            "Material": "typeMesh and PU",
+            "Closure": "typeLace-Up",
+            "Heel type": "Cone Heel",
+            "Water resistance": "Not Water Resistant",
+            "Sole Material": "Thermoplastic Elastomers",
+            "Style": "Derby",
+            "Country of Origin": "India"
+        },
+        "color": "White-Blue",
+        "only_left": [
+            "assets/images/first_sneaker_3.jpg",
+            "assets/images/first_sneaker_4.jpg",
+            "assets/images/first_sneaker_5.jpg"
+        ],
+        "sizes": [
+            {
+                "size": "6",
+                "out_of_stock": false
+            },
+            {
+                "size": "7",
+                "out_of_stock": false
+            },
+            {
+                "size": "8",
+                "out_of_stock": false
+            },
+            {
+                "size": "9",
+                "out_of_stock": false
+            }
+        ],
+        "rating": "4.8",
+        "overall_rating": "874",
+        "review": [
+            {
+                "review_send_by": "Cristiano",
+                "review_date": "21 Feb 2024",
+                "review_heading": "First review",
+                "review_description": "review Description",
+                "review_rating": 4,
+                "review_images": [
+                    "assets/images/first_sneaker_review_0.jpg",
+                    "assets/images/first_sneaker_review_1.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "images": [
+            "assets/images/second_sneaker_0.webp",
+            "assets/images/second_sneaker_1.webp",
+            "assets/images/second_sneaker_2.webp"
+        ],
+        "product_name": "ComfortWalk Men's Running Shoes",
+        "product_brand": "Addidas",
+        "product_category": "Men's Shoes",
+        "product_type": "hot selling footwear",
+        "product_badge": false,
+        "product_description": "Experience unparalleled comfort with the ComfortWalk Men's Running Shoes. Designed for long-distance runners, these shoes provide excellent cushioning and support.",
+        "price": "49.99",
+        "old_price": "69.99",
+        "offer": "30",
+        "specifications": {
+            "Material": "Breathable mesh upper",
+            "Closure": "Lace-Up",
+            "Sole Material": "Rubber",
+            "Footwear Type": "Running Shoes"
+        },
+        "sizes": [
+            {
+                "size": "6",
+                "out_of_stock": false
+            },
+            {
+                "size": "7.",
+                "out_of_stock": false
+            },
+            {
+                "size": "8",
+                "out_of_stock": false
+            },
+            {
+                "size": "9",
+                "out_of_stock": false
+            }
+        ],
+        "color": "Grey-orange",
+        "only_left": [
+            "assets/images/second_sneaker_3.webp",
+            "assets/images/second_sneaker_4.webp"
+        ],
+        "rating": "4.5",
+        "overall_rating": "1200",
+        "review": [
+            {
+                "review_send_by": "David Silva",
+                "review_date": "2nd Feb 2024",
+                "review_heading": "First review",
+                "review_description": "review Description",
+                "review_rating": 4,
+                "review_images": [
+                    "assets/images/second_sneaker_review_0.jpeg",
+                    "assets/images/first_sneaker_review_1.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "images": [
+            "assets/images/second_shirt_1.webp",
+            "assets/images/second_shirt_0.webp",
+            "assets/images/second_shirt_3.webp"
+        ],
+        "product_name": "Men Slim Fit Printed Casual Shirt",
+        "product_brand": "Allone Solly",
+        "product_description": "Levi's men's slim fit printed button down collar casual shirt. Designed for a sleek and stylish look with premium quality fabric.",
+        "product_category": "Men's Shirt",
+        "product_type": "recommended for you",
+        "product_badge": false,
+        "price": "29",
+        "old_price": "39",
+        "offer": "25",
+        "specifications": {
+            "Material": "Polyester",
+            "Sleeve": "Half sleeve",
+            "Fit": "Slim fit",
+            "Care": "Machine wash cold, do not bleach"
+        },
+        "color": "Accent-White",
+        "only_left": [
+            "assets/images/second_shirt_0.webp"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "out_of_stock": false
+            },
+            {
+                "size": "M",
+                "out_of_stock": false
+            },
+            {
+                "size": "L",
+                "out_of_stock": false
+            },
+            {
+                "size": "XL",
+                "out_of_stock": true
+            }
+        ],
+        "rating": "4.5",
+        "overall_rating": "321",
+        "review": [
+            {
+                "review_send_by": "Alice",
+                "review_date": "20th Feb 2024",
+                "review_heading": "Great shirt!",
+                "review_description": "I really like this shirt! It fits well and the Material feels nice. The print is also very cool. Would definitely recommend.",
+                "review_rating": 3,
+                "review_images": [
+                    "assets/images/second_shirt_4.webp",
+                    "assets/images/second_shirt_4.webp"
+                ]
+            },
+            {
+                "review_send_by": "Alex",
+                "review_date": "18th Mar 2024",
+                "review_heading": "Great shirt for work!",
+                "review_description": "I bought this shirt for work and it's fantastic. The slim fit looks very sharp and the Material is comfortable to wear all day. Highly recommend.",
+                "review_rating": 4,
+                "review_images": [
+                    "assets/images/forth_shirt_3.webp",
+                    "assets/images/forth_shirt_2.webp"
+                ]
+            },
+            {
+                "review_send_by": "Alex",
+                "review_date": "18th Mar 2024",
+                "review_heading": "Great shirt for work!",
+                "review_description": "I bought this shirt for work and it's fantastic. The slim fit looks very sharp and the Material is comfortable to wear all day. Highly recommend.",
+                "review_rating": 4,
+                "review_images": [
+                    "assets/images/forth_shirt_3.webp",
+                    "assets/images/forth_shirt_2.webp"
+                ]
+            },
+            {
+                "review_send_by": "Sarah Elizabath",
+                "review_date": "25th Feb 2024",
+                "review_heading": "Nice dress shirt!",
+                "review_description": "This dress shirt is exactly what I was looking for. The fit is perfect and it's very comfortable to wear. The stripes add a nice touch to it.",
+                "review_rating": 5,
+                "review_images": [
+                    "assets/images/first_shirt_7.webp",
+                    "assets/images/first_shirt_8.webp",
+                    "assets/images/first_shirt_2.webp"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "images": [
+            "assets/images/third_shirt_0.webp",
+            "assets/images/third_shirt_1.webp",
+            "assets/images/third_shirt_2.webp"
+        ],
+        "product_name": "Men Classic Fit Striped Dress Shirt",
+        "product_brand": "HIGHLANDER",
+        "product_description": "Arrow men's classic fit striped dress shirt. Perfect for formal occasions with a timeless design and comfortable fabric.",
+        "product_category": "Men's Shirt",
+        "product_type": "recommended for you",
+        "product_badge": false,
+        "price": "45",
+        "old_price": "55",
+        "offer": "18",
+        "specifications": {
+            "Material": "Cotton",
+            "Sleeve": "Long sleeve",
+            "Fit": "Classic fit",
+            "Care": "Tumble dry low"
+        },
+        "color": "Dark Green",
+        "only_left": [
+            "assets/images/third_shirt_3.webp",
+            "assets/images/third_shirt_7.webp"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "out_of_stock": true
+            },
+            {
+                "size": "M",
+                "out_of_stock": false
+            },
+            {
+                "size": "L",
+                "out_of_stock": false
+            },
+            {
+                "size": "XL",
+                "out_of_stock": false
+            },
+            {
+                "size": "XL",
+                "out_of_stock": false
+            }
+        ],
+        "rating": "4.0",
+        "overall_rating": "220",
+        "review": []
+    },
+    {
+        "id": 12,
+        "images": [
+            "assets/images/forth_shirt_0.webp",
+            "assets/images/forth_shirt_1.webp",
+            "assets/images/forth_shirt_3.webp"
+        ],
+        "product_name": "Men's Slim Fit Striped Dress Shirt",
+        "product_brand": "The India Garage Co.",
+        "product_description": "Classic slim fit dress shirt with a stylish striped pattern. Perfect for formal occasions or office wear.",
+        "product_category": "Men's Shirt",
+        "product_type": "recommended for you",
+        "product_badge": true,
+        "price": "29",
+        "old_price": "45",
+        "offer": "35",
+        "specifications": {
+            "Material": "Cotton blend",
+            "Sleeve": "Long sleeve",
+            "Fit": "Slim fit",
+            "Care": "Machine wash cold, tumble dry low"
+        },
+        "color": "Blue-White",
+        "only_left": [
+            "assets/images/forth_shirt_4.webp",
+            "assets/images/forth_shirt_6.webp",
+            "assets/images/forth_shirt_7.webp"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "out_of_stock": false
+            },
+            {
+                "size": "M",
+                "out_of_stock": false
+            },
+            {
+                "size": "L",
+                "out_of_stock": false
+            },
+            {
+                "size": "XL",
+                "out_of_stock": false
+            },
+            {
+                "size": "XXL",
+                "out_of_stock": true
+            }
+        ],
+        "rating": "4.6",
+        "overall_rating": "492",
+        "review": [
+            {
+                "review_send_by": "Alex",
+                "review_date": "18th Mar 2024",
+                "review_heading": "Great shirt for work!",
+                "review_description": "I bought this shirt for work and it's fantastic. The slim fit looks very sharp and the Material is comfortable to wear all day. Highly recommend.",
+                "review_rating": 4,
+                "review_images": [
+                    "assets/images/forth_shirt_3.webp",
+                    "assets/images/forth_shirt_2.webp"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "images": [
+            "assets/images/first_shirt_0.webp",
+            "assets/images/first_shirt_1.webp",
+            "assets/images/first_shirt_3.webp"
+        ],
+        "product_name": "Men Regular Fit Solid Casual Shirt",
+        "product_brand": "U.S. POLO ASSN.",
+        "product_description": "Metronaut men's regular fit solid button down collar casual shirt. Designed for comfortable outfit with brand new cloths.",
+        "product_category": "Men's Shirt",
+        "product_type": "recommended for you",
+        "product_badge": true,
+        "price": "5",
+        "old_price": "24",
+        "offer": "84",
+        "specifications": {
+            "Material": "Cotton",
+            "Sleeve": "Long sleeve",
+            "Fit": "Regular fit",
+            "Care": "Machine wash cold, tumble dry low"
+        },
+        "color": "Black",
+        "only_left": [
+            "assets/images/first_shirt_4.webp",
+            "assets/images/first_shirt_5.webp",
+            "assets/images/first_shirt_6.webp"
+        ],
+        "sizes": [
+            {
+                "size": "S",
+                "out_of_stock": false
+            },
+            {
+                "size": "M",
+                "out_of_stock": false
+            },
+            {
+                "size": "L",
+                "out_of_stock": false
+            },
+            {
+                "size": "XL",
+                "out_of_stock": false
+            },
+            {
+                "size": "XXL",
+                "out_of_stock": true
+            }
+        ],
+        "rating": "3.8",
+        "overall_rating": "428",
+        "review": [
+            {
+                "review_send_by": "Sarah Elizabath",
+                "review_date": "25th Feb 2024",
+                "review_heading": "Nice dress shirt!",
+                "review_description": "This dress shirt is exactly what I was looking for. The fit is perfect and it's very comfortable to wear. The stripes add a nice touch to it.",
+                "review_rating": 5,
+                "review_images": [
+                    "assets/images/first_shirt_7.webp",
+                    "assets/images/first_shirt_8.webp",
+                    "assets/images/first_shirt_2.webp"
+                ]
+            }
+        ]
+    }
+]
